@@ -1,7 +1,8 @@
 body {
     background-image: url('img/bg-color.jpg');
     background-attachment: fixed;
-    font-family: Courier New, Courier, monospace;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 85%;
     text-align: left;
     margin: 0px;
     padding: 0px; 
